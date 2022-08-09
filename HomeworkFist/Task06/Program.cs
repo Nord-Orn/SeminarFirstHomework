@@ -2,11 +2,11 @@
 //является ли число чётным (делится ли оно на два без остатка).
 Console.Write("Ведите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number % 2==0)
+if (number % 2 == 0)
 {
-        Console.Write("Это четное число");
+    Console.Write("Это четное число");
 }
 else
 {
-        Console.Write("Это нечетное число");
+    Console.Write("Это нечетное число");
 }

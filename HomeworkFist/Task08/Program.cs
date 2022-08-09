@@ -7,10 +7,10 @@ if (N < 0)
     int count = 0;
     while (count >= N)
     {
-        if (count%2==0)
+        if (count % 2 == 0)
         {
-             Console.Write("четное: ");
-             Console.WriteLine(count);
+            Console.Write("четное: ");
+            Console.WriteLine(count);
         }
         count--;
     }
@@ -28,7 +28,7 @@ else
     {
         Console.Write("Четных чисел нет");
     }
-    if (N==0)
+    if (N == 0)
     {
         Console.Write("четное: 0");
     }

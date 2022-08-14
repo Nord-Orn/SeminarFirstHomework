@@ -6,7 +6,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 int numberA = 0;
 int revers = 0;
 int remains = 0;
-int numberB =0;
+int numberB = 0;
 if (number > 0)
 {
     while (number > 99999 || number < 10000)
@@ -45,7 +45,7 @@ else if (number < 0)
         revers = (revers * 10) - remains;
         number = number / 10;
     }
-    numberB = revers % 100*-1;
+    numberB = revers % 100 * -1;
     if (numberA == numberB)
     {
         Console.WriteLine("Палиндром.");

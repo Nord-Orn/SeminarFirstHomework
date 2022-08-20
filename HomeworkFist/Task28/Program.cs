@@ -65,12 +65,12 @@ while (max <= min)
     max = Convert.ToInt32(Console.ReadLine());
 }
 int[] arrA = ArreyA(N, min, max);
-Console.Write("Массив А: ");
-Console.WriteLine("[" + string.Join(", ", (arrA)) + "]");
+Console.WriteLine();
+Console.WriteLine("Массив А: [" + string.Join(", ", (arrA)) + "]");
 double[] arrB = ArreyB(arrA, N);
-Console.Write("Последовательное произведение элементов Массив А: ");
-Console.WriteLine("[" + string.Join(", ", (arrB)) + "]");
+Console.WriteLine();
+Console.WriteLine("Последовательное произведение элементов Массив А: [" + string.Join(", ", (arrB)) + "]");
 double[] arrC = ArreyC(arrA, N);
-Console.Write("Произведение каждого элемента Массив А: ");
-Console.WriteLine("[" + string.Join(", ", (arrC)) + "]");
+Console.WriteLine();
+Console.WriteLine("Произведение каждого элемента Массив А: [" + string.Join(", ", (arrC)) + "]");
 Console.WriteLine();

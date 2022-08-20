@@ -32,6 +32,7 @@ double[] ArreyC(int[] arrA, int N)
     for (int i = 0; i < N; i++)
     {
         double cor = 1;
+        if (arrA[i] == 0) cor = 0;
         if (arrA[i] < 0)
         {
             for (int j = -1; j >= arrA[i]; j--)
@@ -39,7 +40,7 @@ double[] ArreyC(int[] arrA, int N)
                 cor = cor * j;
             }
         }
-        else if (arrA[i] >= 0)
+        else if (arrA[i] > 0)
         {
             for (int j = 1; j <= arrA[i]; j++)
             {
@@ -70,6 +71,6 @@ double[] arrB = ArreyB(arrA, N);
 Console.Write("Последовательное произведение элементов Массив А: ");
 Console.WriteLine("[" + string.Join(", ", (arrB)) + "]");
 double[] arrC = ArreyC(arrA, N);
-Console.Write("Факториалы каждого элемента Массив А: ");
+Console.Write("Произведение каждого элемента Массив А: ");
 Console.WriteLine("[" + string.Join(", ", (arrC)) + "]");
 Console.WriteLine();

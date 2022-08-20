@@ -13,10 +13,10 @@ int[] ArreyA(int N, int min, int max)
 }
 
 
-int[] ArreyB(int[] arrA, int N)
+double[] ArreyB(int[] arrA, int N)
 {
-    int[] arr = new int[N];
-    int cor = 1;
+    double[] arr = new double[N];
+    double cor = 1;
     for (int i = 0; i < N; i++)
     {
         cor = cor * arrA[i];
@@ -26,12 +26,12 @@ int[] ArreyB(int[] arrA, int N)
 }
 
 
-int[] ArreyC(int[] arrA, int N)
+double[] ArreyC(int[] arrA, int N)
 {
-    int[] arr = new int[N];
+    double[] arr = new double[N];
     for (int i = 0; i < N; i++)
     {
-        int cor = 1;
+        double cor = 1;
         if (arrA[i] == 0) cor = 0;
         else if (arrA[i] < 0)
         {
@@ -67,10 +67,10 @@ while (max <= min)
 int[] arrA = ArreyA(N, min, max);
 Console.Write("Массив А: ");
 Console.WriteLine("[" + string.Join(", ", (arrA)) + "]");
-int[] arrB = ArreyB(arrA, N);
-Console.Write("Последовательное произведение элемента Массив А: ");
+double[] arrB = ArreyB(arrA, N);
+Console.Write("Последовательное произведение элементов Массив А: ");
 Console.WriteLine("[" + string.Join(", ", (arrB)) + "]");
-int[] arrC = ArreyC(arrA, N);
+double[] arrC = ArreyC(arrA, N);
 Console.Write("Произведение каждого элемента Массив А: ");
 Console.WriteLine("[" + string.Join(", ", (arrC)) + "]");
 Console.WriteLine();

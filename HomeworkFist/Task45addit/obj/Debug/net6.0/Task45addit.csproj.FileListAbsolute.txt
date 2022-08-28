@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\bin\Debug\net6.0\Task45addit.exe
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\bin\Debug\net6.0\Task45addit.deps.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\bin\Debug\net6.0\Task45addit.runtimeconfig.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\bin\Debug\net6.0\Task45addit.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\bin\Debug\net6.0\Task45addit.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\Task45addit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\Task45addit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\Task45addit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\Task45addit.AssemblyInfo.cs
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\Task45addit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\Task45addit.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\refint\Task45addit.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\Task45addit.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\Task45addit.genruntimeconfig.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task45addit\obj\Debug\net6.0\ref\Task45addit.dll

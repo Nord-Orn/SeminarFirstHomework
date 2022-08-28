@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\bin\Debug\net6.0\Task44Rekurs.exe
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\bin\Debug\net6.0\Task44Rekurs.deps.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\bin\Debug\net6.0\Task44Rekurs.runtimeconfig.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\bin\Debug\net6.0\Task44Rekurs.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\bin\Debug\net6.0\Task44Rekurs.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\Task44Rekurs.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\Task44Rekurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\Task44Rekurs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\Task44Rekurs.AssemblyInfo.cs
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\Task44Rekurs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\Task44Rekurs.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\refint\Task44Rekurs.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\Task44Rekurs.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\Task44Rekurs.genruntimeconfig.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Rekurs\obj\Debug\net6.0\ref\Task44Rekurs.dll

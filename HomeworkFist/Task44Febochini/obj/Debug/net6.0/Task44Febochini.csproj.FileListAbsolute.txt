@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\bin\Debug\net6.0\Task44Febochini.exe
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\bin\Debug\net6.0\Task44Febochini.deps.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\bin\Debug\net6.0\Task44Febochini.runtimeconfig.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\bin\Debug\net6.0\Task44Febochini.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\bin\Debug\net6.0\Task44Febochini.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\Task44Febochini.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\Task44Febochini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\Task44Febochini.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\Task44Febochini.AssemblyInfo.cs
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\Task44Febochini.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\Task44Febochini.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\refint\Task44Febochini.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\Task44Febochini.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\Task44Febochini.genruntimeconfig.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Task44Febochini\obj\Debug\net6.0\ref\Task44Febochini.dll

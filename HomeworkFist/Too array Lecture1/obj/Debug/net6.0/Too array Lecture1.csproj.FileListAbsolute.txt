@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\bin\Debug\net6.0\Too array Lecture1.exe
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\bin\Debug\net6.0\Too array Lecture1.deps.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\bin\Debug\net6.0\Too array Lecture1.runtimeconfig.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\bin\Debug\net6.0\Too array Lecture1.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\bin\Debug\net6.0\Too array Lecture1.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\Too array Lecture1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\Too array Lecture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\Too array Lecture1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\Too array Lecture1.AssemblyInfo.cs
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\Too array Lecture1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\Too array Lecture1.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\refint\Too array Lecture1.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\Too array Lecture1.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\Too array Lecture1.genruntimeconfig.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\Workshop 1 homework\HomeworkFist\Too array Lecture1\obj\Debug\net6.0\ref\Too array Lecture1.dll

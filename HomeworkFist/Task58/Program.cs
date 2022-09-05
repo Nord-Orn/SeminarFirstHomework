@@ -18,7 +18,7 @@ void PrintArrayRandom(int[,] Arr)
     }
 }
 
-void resultMatrix(int[,] firstMartrix, int[,] secomdMartrix, int[,] resultMatrix)
+void resultArray(int[,] firstMartrix, int[,] secomdMartrix, int[,] resultMatrix)
 {
     for (int i = 0; i < resultMatrix.GetLength(0); i++)
     {
@@ -27,7 +27,7 @@ void resultMatrix(int[,] firstMartrix, int[,] secomdMartrix, int[,] resultMatrix
             int sum = 0;
             for (int k = 0; k < firstMartrix.GetLength(1); k++)
             {
-                sum += firstMartrix[i, k] * secomdMartrix[k, j];
+                sum = sum + firstMartrix[i, k] * secomdMartrix[k, j];
             }
             resultMatrix[i, j] = sum;
         }
@@ -48,7 +48,7 @@ Console.WriteLine("Вторая матрица:");
 PrintArrayRandom(matrix);
 Console.WriteLine("Произведение двух матриц:");
 int[,] result = new int[N, S];
-resultMatrix(Array, matrix, result);
+resultArray(Array, matrix, result);
 for (int i = 0; i < result.GetLength(0); i++)
 {
     for (int j = 0; j < result.GetLength(1); j++)

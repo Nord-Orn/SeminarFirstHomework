@@ -14,37 +14,36 @@ void ArrayRandom(int[,,] Arr)
     for (int i = 0; i < arr.Length; i++)
     {
         arr[i] = rand.Next(10, 100);
-        if (i>=1)
+        if (i >= 1)
         {
             for (int j = 0; j < i; j++)
             {
                 while (arr[i] == arr[j])
                 {
                     arr[i] = rand.Next(10, 100);
-                    j = 0;                   
-                }                
+                    j = 0;
+                }
             }
         }
-    }    
-    int count = 0;    
+    }
+    int count = 0;
     for (int i = 0; i < Arr.GetLength(0); i++)
     {
         for (int j = 0; j < Arr.GetLength(1); j++)
         {
-            //Console.WriteLine();
             for (int m = 0; m < Arr.GetLength(2); m++)
             {
                 Arr[i, j, m] = arr[count];
                 count++;
                 Console.Write($"{Arr[i, j, m]} - ({i},{j},{m})|");
-            } 
-            Console.WriteLine();         
+            }
+            Console.WriteLine();
         }
-        Console.WriteLine();
+        //Console.WriteLine();
     }    
 }
 
- 
+
 Console.Clear();
 Console.Write("Введите высоту массива: ");
 int N = Convert.ToInt32(Console.ReadLine());
